@@ -1,7 +1,7 @@
 /*
  * Copyright © HatioLab Inc. All rights reserved.
  */
-import COMPONENT_IMAGE from '../assets/no-image.png'
+import COMPONENT_IMAGE from '../assets/github.png'
 
 const NATURE = {
   mutable: false,

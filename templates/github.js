@@ -1,9 +1,9 @@
-import icon from './github.png'
+import icon from '../assets/github.png'
 
 export default {
   type: 'github',
   description: 'github',
-  group: 'etc',
+  group: 'dataSource',
   /* line|shape|textAndMedia|chartAndGauge|table|container|dataSource|IoT|3D|warehouse|form|etc */
   icon,
   model: {
